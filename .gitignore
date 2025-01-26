@@ -3,6 +3,7 @@ lib/api/
 lib/functionalities/api/
 lib/models/
 lib/provider/
+lib/auth/
 
 # Miscellaneous
 *.class
